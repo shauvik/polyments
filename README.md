@@ -12,3 +12,5 @@ This repo hosts polymer elements in the gh-pages branch. The elements are in ref
 
 
 
+Credits:
+* The motivation for this came from element-party.xyz and was created after it stopped working.
