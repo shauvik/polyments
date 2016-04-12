@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "marked-element": "PolymerElements/marked-element#^1.0.0"
+    "marked-element": "PolymerElements/marked-element#^1.0.0",
+    "prism-element": "PolymerElements/prism-element#^1.0.0"
   }
 }

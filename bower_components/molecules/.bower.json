@@ -20,13 +20,14 @@
     "tests"
   ],
   "dependencies": {
-    "marked-element": "PolymerElements/marked-element#^1.0.0"
+    "marked-element": "PolymerElements/marked-element#^1.0.0",
+    "prism-element": "PolymerElements/prism-element#^1.0.0"
   },
   "_release": "1.0.0",
   "_resolution": {
     "type": "version",
     "tag": "v1.0.0",
-    "commit": "d05a324f6d48b626d6d771edcace2fb4d77a2db1"
+    "commit": "7abfe200ee398f9c8d9e04e39da13ac86ea3283f"
   },
   "_source": "git://github.com/PolymerElements/molecules.git",
   "_target": "~1.0.0",
